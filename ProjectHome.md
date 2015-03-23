@@ -1,0 +1,1 @@
+Just a place to develop some experimental Python tools for the Virtual AGC project (http://www.ibiblio.org/apollo).
